@@ -58,8 +58,8 @@ OUTPUT
 
 
 MANUAL CALCULATIONS
-<img width="624" height="939" alt="image" src="https://github.com/user-attachments/assets/95f85446-6587-476e-89d4-173727f6ba75" />
 
+![WhatsApp Image 2025-09-21 at 10 55 22_b4364a99](https://github.com/user-attachments/assets/b3fdb0cc-dc56-47c9-b6a5-9bfd618a3d9f)
 
 
 RESULT
